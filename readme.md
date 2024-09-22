@@ -14,7 +14,7 @@ This is a simple console-based Rock Paper Scissors game created with JavaScript.
 Rock Paper Scissors is a hand game usually played between two people. Each player simultaneously forms one of three shapes with their hand. The game has simple rules and is played in rounds.
 
 ## Demo
-[Live Preview](YOUR_LIVE_PREVIEW_LINK_HERE)
+[Live Preview](https://sumantsagar73.github.io/odin-rock-paper-scissiors/)
 
 ## Getting Started
 To run this project locally, follow these steps:
